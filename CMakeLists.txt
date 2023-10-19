@@ -12,7 +12,7 @@ endif()
 
 #add project files
 set (Project_SOURCES
-        ${SOURCE_DIR}main.cpp
+        ${SOURCE_DIR}Main.cpp
         ${SOURCE_DIR}Bot.cpp
         ${SOURCE_DIR}Params.cpp
         ${SOURCE_DIR}Matrix.cpp
