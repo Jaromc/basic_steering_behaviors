@@ -1,8 +1,8 @@
-# Simple steering behaviors##
+# Simple steering behaviors #
 
 Simple demonstration of AI steering behaviors wander, seek and flee using SDL and C++. These behaviors can be combined to create emergent behaviors.
 
-### To Run on Windows###
+### To Run on Windows ###
 
 * Install SDL2
 * ```mkdir build``` in the project folder
@@ -16,4 +16,5 @@ Simple demonstration of AI steering behaviors wander, seek and flee using SDL an
 * Pressing 3 will have one seek and the other wander
 
 ### Result ###
+https://github.com/Jaromc/basic_steering_behaviors/assets/89912906/4849256f-0c86-47d9-94ea-462e19285966
 
