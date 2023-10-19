@@ -6,7 +6,7 @@ Simple demonstration of AI steering behaviors wander, seek and flee using SDL an
 
 * Install SDL2
 * ```mkdir build``` in the project folder
-* Enter build and run ```cmake ..```
+* Enter build and run ```cmake -G "NMake Makefiles" ..```
 * run ```nmake```
 
 ### On Running ###
