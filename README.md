@@ -16,5 +16,5 @@ Simple demonstration of AI steering behaviors wander, seek and flee using SDL an
 * Pressing 3 will have one seek and the other wander
 
 ### Result ###
-https://github.com/Jaromc/basic_steering_behaviors/assets/89912906/4849256f-0c86-47d9-94ea-462e19285966
+https://github.com/Jaromc/basic_steering_behaviors/assets/89912906/340f7e1c-7d68-4943-922e-b0dc95266615
 
