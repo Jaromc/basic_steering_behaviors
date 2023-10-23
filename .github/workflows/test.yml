@@ -27,5 +27,6 @@ jobs:
       - name: Build
         run: |
           cmake .
-          make
+          #only build tests to avoid windows SDL issues
+          cmake --build . --target Vector2_tests
           ctest
