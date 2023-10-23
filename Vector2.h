@@ -9,7 +9,6 @@ class Vector2
       Vector2():x(0), y(0){}
       Vector2(T _x, T _y):x(_x), y(_y){}
 
-      template<class T>
       float dot(const Vector2<T> &b) const
       {
          return (x * b.x) + (y * b.y);
