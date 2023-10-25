@@ -83,11 +83,12 @@ class Vector2
          return *this;
       }
 
-		Vector2<T>& operator*(float f)
+      Vector2<T>& operator*(float f) const
       {
-         x *= f;
-         y *= f;
-         return *this;
+         Vector2<T> v = *this;
+         v.x *= f;
+         v.y *= f;
+         return v;
       }
 
    T x;
